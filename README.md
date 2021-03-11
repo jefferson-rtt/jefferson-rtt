@@ -12,6 +12,6 @@ Sou um Front-end Developer :computer:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-rtt&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-rtt)](https://github.com/anuraghazra/github-readme-stats)
+<br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-rtt)](https://github.com/anuraghazra/github-readme-stats)
 
 
